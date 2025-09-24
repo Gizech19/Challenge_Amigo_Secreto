@@ -13,7 +13,6 @@ Es una aplicacion web sencilla para Organizar y realizar un sorteo de Amigos sec
 3.Mostrar no se ingresa un nombre o se ingresa un nombre invalido.<br>
 4.Sortear amigos de manera aleatoria.<br>
 5.Reiniciar el juego para volver a agregar amigos.<br></p>
-
 <h3><b>Uso</b></h3>
 <p>
 -Abre el aproyecto en tu navegador con el archivo index.html.<br>
