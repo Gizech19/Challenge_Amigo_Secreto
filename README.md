@@ -1,7 +1,7 @@
 <h1 aling="Center"> Challenge Amigo Secreto </h1>
 <img width="450" height="277" alt="amigo-secreto" src="https://github.com/user-attachments/assets/fe438b93-ba6f-4e04-9a17-43cfc65a276d" />
 
-<h2><b>Protecto Completamente Terminado</b></h2>
+<h2><b>Proyecto Completamente Terminado</b></h2>
 
 <p>Este Challenge Fue creado con el proposito de Practicar Lo aprendido en la primera etapa. 
 Es una aplicacion web sencilla para Organizar y realizar un sorteo de Amigos secreto, ingresando nombres, listarlos y mostrarlos en pantalla, y soltearlos aleatoriamente y asi escoger al amigo secreto.</p>
