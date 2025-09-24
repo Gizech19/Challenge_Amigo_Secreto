@@ -1,8 +1,26 @@
 <h1 aling="Center"> Challenge Amigo Secreto </h1>
 <img width="450" height="277" alt="amigo-secreto" src="https://github.com/user-attachments/assets/fe438b93-ba6f-4e04-9a17-43cfc65a276d" />
 
-<h2>Protecto Completamente Terminado</h2>
+<h2><b>Protecto Completamente Terminado</b></h2>
 
-<p>Este Challenge Fue creadi¿o con el proposito de Practicar Lo aprendido en la primera etapa.
-El Programa Proporcionado aqui, tiene la funcion de Sortear amigos, tu ingresas el nombre de tus amigos, (pero solo pueden ser nombres validos si no el programa arrojara una alerta) y se van guardando y mostrando a la vez en la pagina principal, puedes agregar muchos o pocos amigos. Despues puede precionar el boton de sortear amigos y este te mostrara al amigo sorteado pero lo eliminara de la lista, cuando sortes todos los amigos tendras que cargar nuevamente el juego para poder seguir agregando amigos, algo sencillo, funcional y facil de entender</p>
+<p>Este Challenge Fue creado con el proposito de Practicar Lo aprendido en la primera etapa. 
+Es una aplicacion web sencilla para Organizar y realizar un sorteo de Amigos secreto, ingresando nombres, listarlos y mostrarlos en pantalla, y soltearlos aleatoriamente y asi escoger al amigo secreto.</p>
 
+<h3><b>Caracteristicas</b></h3>
+<p>
+1.Añadir amigos a una lista.
+2.Mostrar Todos lo amigos agregados.
+3.Mostrar no se ingresa un nombre o se ingresa un nombre invalido.
+4.Sortear amigos de manera aleatoria.
+5.Reiniciar el juego para volver a agregar amigos.</p>
+
+<h3><b>Uso</b></h3>
+<p>
+-Abre el aproyecto en tu navegador con el archivo index.html.
+-Escribe el Nombre valido de un amigo en el Cuadro de texto.
+-Presiona el boton añadir para agregarlo a la lista.
+-Cuando sean agreagados todos los amigos presiona el boton sortear.
+-se mostrara el amigo sorteado, puedes sortear todos lo amigos.
+-Una vez terminados los amigos El juego te dira que presiones la tecla F5 para reiniciar el juego 
+y poder jugar nuevamente, de lo contrario no podras.
+</p>
